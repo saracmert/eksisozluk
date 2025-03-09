@@ -1,0 +1,9 @@
+body {
+    width: 480px;
+    background-color: #2d2d2d;
+    border-top: 4px solid #81C14B;
+}
+
+#lstResults a {
+    text-decoration: none;
+}
